@@ -1,0 +1,12 @@
+table, td, th{
+  border: 1px solid black;
+}
+td{
+  background-color: cadetblue; text-align: center;
+}
+th{
+  background-color: rgb(12, 165, 170); text-align: center;
+}
+.fila3{
+  background-color: rgb(112, 180, 236);
+}
