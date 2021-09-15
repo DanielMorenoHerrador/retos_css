@@ -1,0 +1,11 @@
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  td {
+    background-color: #96D4D4;  
+  }
+  th{
+      background-color: rgba(54, 132, 177, 0.514);
+  }
+  .fila2 {background-color: blue;}
