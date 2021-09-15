@@ -1,0 +1,9 @@
+table, td, th{
+    text-align: center; border: solid black;
+}
+td{
+    background-color: rgb(229, 233, 18); width: 8cm;
+}
+.foto{
+    width: 10m; height: 10cm; position: unset; margin-top: 0cm; 
+}
