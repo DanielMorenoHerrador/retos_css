@@ -1,0 +1,17 @@
+#container{
+    background-color: maroon;
+    width: 100vw;
+    height: 100vh;
+}
+#header {
+    height: 10vh;
+    background-color: mediumaquamarine;
+}
+#body {
+    height: 80vh;
+    background-color: mediumorchid;
+}
+#footer {
+    height: 10vh;
+    background-color: red;
+}
