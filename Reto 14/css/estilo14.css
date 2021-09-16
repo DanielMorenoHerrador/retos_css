@@ -4,8 +4,10 @@ table, td, th{
 td{
     background-color: rgb(229, 233, 18); width: 8cm;
 }
-.foto{
-   display: flex;
-   justify-content: center;
-   align-items: center; 
+#foto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    background-size: contain;
 }

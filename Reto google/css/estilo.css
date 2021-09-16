@@ -3,15 +3,62 @@
     width: 100vw;
     height: 100vh;
 }
+
 #header {
     height: 10vh;
     background-color: mediumaquamarine;
+    display: flex;
+    align-items: center;
+    align-content: center;
 }
+
 #body {
     height: 80vh;
     background-color: mediumorchid;
 }
+
 #footer {
     height: 10vh;
-    background-color: red;
+    background-color: rgb(255, 251, 0);
+}
+
+#der {
+    height: 100%;
+    width: 50%;
+    background-color: black;
+}
+
+#izq {
+    height: 100%;
+    width: 50%;
+    background-color: rgb(34, 128, 131);
+}
+
+body { margin: 0 0 0 0;
+}
+
+#fsup {
+    height: 50%;
+    background-color: rgb(71, 185, 48);
+}
+
+#finf {
+    height: 50%;
+    background-color: rgb(150, 12, 81);
+    display: flex;
+}
+#finf-izq{
+    width: 40%;
+    background-color: chocolate;
+    height: 100%;
+}
+#finf-der{
+    width: 40%;
+    background-color: rgb(133, 98, 74);
+    height: 100%;
+}
+#finf-cent{
+    width: 20%;
+    background-color: rgb(131, 180, 39);
+    height: 100%;
 }
